@@ -1,0 +1,25 @@
+<?php
+ $conn=new mysqli("localhost","root","","test-db");
+ if(!$conn)
+ {
+ 	echo(" no connecton successfully <br/>");
+ }
+ else
+ {
+ echo("connecton successfully <br/>");
+$sql="CREATE TABLE rajveer_table";
+    id INT AUTO_INCREAMENT PRIMARY KEY,
+    name VARCHAR,
+    ROLL VARCHAR,
+    address TEXT)";
+if(($sql)==TRUE)
+{
+	echo "database created successfully";
+}
+else{
+		echo " no database created ";
+}
+
+}
+
+?>

@@ -1,0 +1,196 @@
+/* geetahome page background*/
+.bg-image{
+	max-width: 100%;
+	width:100%;
+	min-height:740px;
+
+	background-image: url(image/car.jpg);
+	background-size: cover;
+	background-position:center center;
+	background-repeat:no-repeat;
+
+}
+
+/* page logo pickup*/
+.logo-img{
+   
+	padding-top: 30px;
+}
+.website-margin{
+
+	padding-top: 50px;
+}
+
+
+/* geetahome page jumbotron */
+.bg-jumbo{
+	/*background-image: url(image/b.jpeg);*/
+}
+
+
+/* geetahome navbar */
+.navbar_back{
+
+	background-color:#99CCFF;
+	color: white;
+
+}
+.links{
+	color: white;
+}
+.links:hover{
+	background-color:   #00b8e6;
+	
+	border: 1px solid white;
+
+}
+
+
+.form-border{
+	background-color:#ccefff;
+
+	border-bottom: 2px solid #ccefff;
+	border-left : 2px solid #ccefff;
+	border-right: 2px solid #ccefff;
+    border-top: 2px solid #ccefff;
+	/*width: 100%;*/
+	padding-left: 20px;
+
+
+	width: 100%;
+}
+	
+	.form-title{
+
+		height:30px;
+	color:#331a00;
+	font-size: 20px;
+
+	padding-left: 600px;
+}
+.img-center{
+	
+		width:50%;
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+}
+.footer{
+	background-color:#aaa;
+}
+.learn{
+	max-width: 20%;
+	height: 10%;
+	border-radius: 20%;
+}
+.learn_2{
+	max-width: 29%;
+	height: 15%;
+	border-radius: 20%;
+}
+
+.home{
+	height: 500px;
+	width: 100%;
+	background-color: #ddd;
+}
+/*services.php page*/
+.services{
+	height: 600px;
+	width: 100%;
+    background-color: #ddd;
+    font-size: 20px;
+}
+/*	contact.php page*/
+.contact{
+	height:540px;
+	width: 100%;
+    /*background-color: #ddd;*/
+    margin-top: 70px;
+  
+}
+.contact_no{
+  text-decoration: none;
+  font-size: 10px;
+}
+.contact_para{
+	color: #cc6600;
+	top: 30px;
+	position: relative;
+
+}
+.email{
+	position: relative;
+	/*color: #00b8e6;*/
+	top: 60px;
+	font-size: 30px;
+	/*background-color:#dff;*/
+	/*border:3px solid #00b8e6;*/
+
+}
+
+.email_msg{
+	position: relative;
+	top: 60px;
+	color: #cc6600;
+}
+.tel_no{
+	text-decoration: none;
+
+	position: relative;
+	top: 30px;
+
+}
+
+
+
+/*message.php page*/
+
+.message{
+	height: 600px;
+	width: 100%;
+    background-color:#fff;
+}
+.msg_color{
+	/*background-color:  #ddd;*/
+}
+.form1{
+	background-color:#F5F5F6;
+	border: 3px solid #99CCFF;
+	box-sizing: border-box;
+	box-shadow: 500px;
+	margin-top: 100px;
+	position:relative;
+	justify-content: center; 
+	box-shadow: 0 20px 20px 20px rgba(51,111,110,.5); 
+    padding: 20px 10px 10px 10px;
+    border-radius:10px;
+    position: relative;
+    /*box-shadow: 0px 20px 50px rgba(0,0,0,0.5);*/
+}
+
+
+.tooltip-danger{
+	background-color: #45df;
+	color: #721c24;
+}
+.learn_1{
+	color: red;
+}
+.learn_body{
+	background: #b3dd;
+}
+.footer{
+	background-color: #99CCFF;
+}
+.designed{
+
+	background-color: #000000;
+	
+}
+.designed_color{
+	color: white;
+}
+.information{
+	color: #fff;
+}
